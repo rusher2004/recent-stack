@@ -1,0 +1,92 @@
+[
+  {
+    "id": "share-in-001",
+    "from": {
+      "name": "John Smith",
+      "id": "person-001",
+      "timestamp": "2023-06-15T08:30:00Z"
+    },
+    "timestamp": "2023-06-15T08:35:00Z"
+  },
+  {
+    "id": "share-in-002",
+    "from": {
+      "name": "Emily Johnson",
+      "id": "person-002",
+      "timestamp": "2023-06-15T09:45:00Z"
+    },
+    "timestamp": "2023-06-15T09:50:00Z"
+  },
+  {
+    "id": "share-in-003",
+    "from": {
+      "name": "Michael Brown",
+      "id": "person-003",
+      "timestamp": "2023-06-16T10:20:00Z"
+    },
+    "timestamp": "2023-06-16T10:25:00Z"
+  },
+  {
+    "id": "share-in-004",
+    "from": {
+      "name": "Sarah Davis",
+      "id": "person-004",
+      "timestamp": "2023-06-16T13:10:00Z"
+    },
+    "timestamp": "2023-06-16T13:15:00Z"
+  },
+  {
+    "id": "share-in-005",
+    "from": {
+      "name": "Robert Wilson",
+      "id": "person-005",
+      "timestamp": "2023-06-17T14:40:00Z"
+    },
+    "timestamp": "2023-06-17T14:45:00Z"
+  },
+  {
+    "id": "share-in-006",
+    "from": {
+      "name": "Jennifer Lee",
+      "id": "person-006",
+      "timestamp": "2023-06-18T09:05:00Z"
+    },
+    "timestamp": "2023-06-18T09:10:00Z"
+  },
+  {
+    "id": "share-in-007",
+    "from": {
+      "name": "David Martinez",
+      "id": "person-007",
+      "timestamp": "2023-06-19T11:30:00Z"
+    },
+    "timestamp": "2023-06-19T11:35:00Z"
+  },
+  {
+    "id": "share-in-008",
+    "from": {
+      "name": "Lisa Taylor",
+      "id": "person-008",
+      "timestamp": "2023-06-20T15:20:00Z"
+    },
+    "timestamp": "2023-06-20T15:25:00Z"
+  },
+  {
+    "id": "share-in-009",
+    "from": {
+      "name": "James Anderson",
+      "id": "person-009",
+      "timestamp": "2023-06-21T10:15:00Z"
+    },
+    "timestamp": "2023-06-21T10:20:00Z"
+  },
+  {
+    "id": "share-in-010",
+    "from": {
+      "name": "Patricia Thomas",
+      "id": "person-010",
+      "timestamp": "2023-06-22T12:40:00Z"
+    },
+    "timestamp": "2023-06-22T12:45:00Z"
+  }
+]

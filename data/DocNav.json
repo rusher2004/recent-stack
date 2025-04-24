@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Section 1.2",
+    "id": "nav-001",
+    "timestamp": "2023-05-03T09:10:00Z"
+  },
+  {
+    "name": "Appendix B",
+    "id": "nav-002",
+    "timestamp": "2023-05-03T09:12:30Z"
+  },
+  { "name": "Chapter 3", "id": "nav-003", "timestamp": "2023-05-03T09:15:45Z" },
+  {
+    "name": "Table of Contents",
+    "id": "nav-004",
+    "timestamp": "2023-05-03T09:18:20Z"
+  },
+  {
+    "name": "Figure 2.4",
+    "id": "nav-005",
+    "timestamp": "2023-05-03T09:20:15Z"
+  },
+  {
+    "name": "References",
+    "id": "nav-006",
+    "timestamp": "2023-05-03T09:22:40Z"
+  },
+  {
+    "name": "Executive Summary",
+    "id": "nav-007",
+    "timestamp": "2023-05-03T09:25:10Z"
+  },
+  {
+    "name": "Footnote 12",
+    "id": "nav-008",
+    "timestamp": "2023-05-03T09:27:30Z"
+  },
+  { "name": "Page 42", "id": "nav-009", "timestamp": "2023-05-03T09:29:15Z" },
+  { "name": "Index", "id": "nav-010", "timestamp": "2023-05-03T09:31:50Z" }
+]

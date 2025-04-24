@@ -1,0 +1,162 @@
+[
+  {
+    "id": "share-out-001",
+    "recipients": [
+      {
+        "name": "John Smith",
+        "id": "person-001",
+        "timestamp": "2023-07-01T09:00:00Z"
+      },
+      {
+        "name": "Emily Johnson",
+        "id": "person-002",
+        "timestamp": "2023-07-01T09:00:00Z"
+      }
+    ],
+    "timestamp": "2023-07-01T09:05:00Z"
+  },
+  {
+    "id": "share-out-002",
+    "recipients": [
+      {
+        "name": "Michael Brown",
+        "id": "person-003",
+        "timestamp": "2023-07-02T10:30:00Z"
+      }
+    ],
+    "timestamp": "2023-07-02T10:35:00Z"
+  },
+  {
+    "id": "share-out-003",
+    "recipients": [
+      {
+        "name": "Sarah Davis",
+        "id": "person-004",
+        "timestamp": "2023-07-03T11:45:00Z"
+      },
+      {
+        "name": "Robert Wilson",
+        "id": "person-005",
+        "timestamp": "2023-07-03T11:45:00Z"
+      },
+      {
+        "name": "Jennifer Lee",
+        "id": "person-006",
+        "timestamp": "2023-07-03T11:45:00Z"
+      }
+    ],
+    "timestamp": "2023-07-03T11:50:00Z"
+  },
+  {
+    "id": "share-out-004",
+    "recipients": [
+      {
+        "name": "David Martinez",
+        "id": "person-007",
+        "timestamp": "2023-07-04T13:15:00Z"
+      }
+    ],
+    "timestamp": "2023-07-04T13:20:00Z"
+  },
+  {
+    "id": "share-out-005",
+    "recipients": [
+      {
+        "name": "Lisa Taylor",
+        "id": "person-008",
+        "timestamp": "2023-07-05T14:40:00Z"
+      },
+      {
+        "name": "James Anderson",
+        "id": "person-009",
+        "timestamp": "2023-07-05T14:40:00Z"
+      }
+    ],
+    "timestamp": "2023-07-05T14:45:00Z"
+  },
+  {
+    "id": "share-out-006",
+    "recipients": [
+      {
+        "name": "Patricia Thomas",
+        "id": "person-010",
+        "timestamp": "2023-07-06T09:25:00Z"
+      },
+      {
+        "name": "John Smith",
+        "id": "person-001",
+        "timestamp": "2023-07-06T09:25:00Z"
+      }
+    ],
+    "timestamp": "2023-07-06T09:30:00Z"
+  },
+  {
+    "id": "share-out-007",
+    "recipients": [
+      {
+        "name": "Emily Johnson",
+        "id": "person-002",
+        "timestamp": "2023-07-07T10:50:00Z"
+      },
+      {
+        "name": "Michael Brown",
+        "id": "person-003",
+        "timestamp": "2023-07-07T10:50:00Z"
+      },
+      {
+        "name": "Sarah Davis",
+        "id": "person-004",
+        "timestamp": "2023-07-07T10:50:00Z"
+      }
+    ],
+    "timestamp": "2023-07-07T10:55:00Z"
+  },
+  {
+    "id": "share-out-008",
+    "recipients": [
+      {
+        "name": "Robert Wilson",
+        "id": "person-005",
+        "timestamp": "2023-07-08T12:10:00Z"
+      }
+    ],
+    "timestamp": "2023-07-08T12:15:00Z"
+  },
+  {
+    "id": "share-out-009",
+    "recipients": [
+      {
+        "name": "Jennifer Lee",
+        "id": "person-006",
+        "timestamp": "2023-07-09T15:30:00Z"
+      },
+      {
+        "name": "David Martinez",
+        "id": "person-007",
+        "timestamp": "2023-07-09T15:30:00Z"
+      }
+    ],
+    "timestamp": "2023-07-09T15:35:00Z"
+  },
+  {
+    "id": "share-out-010",
+    "recipients": [
+      {
+        "name": "Lisa Taylor",
+        "id": "person-008",
+        "timestamp": "2023-07-10T16:45:00Z"
+      },
+      {
+        "name": "James Anderson",
+        "id": "person-009",
+        "timestamp": "2023-07-10T16:45:00Z"
+      },
+      {
+        "name": "Patricia Thomas",
+        "id": "person-010",
+        "timestamp": "2023-07-10T16:45:00Z"
+      }
+    ],
+    "timestamp": "2023-07-10T16:50:00Z"
+  }
+]
